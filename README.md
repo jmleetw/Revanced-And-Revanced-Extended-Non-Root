@@ -20,7 +20,7 @@ They are open-source scripts for patching various apps like YouTube, YouTube Mus
 Simply, all you need to do is choose the app you want to use from the options below: 'Revanced' or 'Revanced Extended'. Then, select your phone's CPU architecture. If you don't know what your phone's CPU architecture is, choose All Architectures. That's all there is to it.
 
 > [!NOTE]
-> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE) or [MicroG](https://github.com/ReVanced/GmsCore/releases)
+> If you want to use the YouTube, YouTube Music or Google Photos app, you need to download and install [MicroG RE](https://github.com/MorpheApp/MicroG-RE)
 > 
 > If you are an advanced user and you want to use custom patches for patching apps, you should read the [Wiki](../main/docs/Frequently%20Asked%20Questions.md#q-how-do-i-use-this-repository-for-patching-my-own-app).
 > 
@@ -70,25 +70,31 @@ Download
 
 #### [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](?tab=readme-ov-file#duolingo)
 
-#### [![Prime Video](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)](?tab=readme-ov-file#prime-video)
-
-#### [![Disney](https://img.shields.io/badge/Disney-%23006E99.svg?style=for-the-badge&logo=disney&logoColor=white)](?tab=readme-ov-file#disney)
-
-#### [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)](?tab=readme-ov-file#crunchyroll)
-
 #### [![Viber](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)](?tab=readme-ov-file#viber)
 
 #### [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](?tab=readme-ov-file#proton-mail)
 
+#### [![Prime Video](https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)](?tab=readme-ov-file#prime-video)
+
+#### [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](?tab=readme-ov-file#Telegram-1)
+
 #### [Google Photos](?tab=readme-ov-file#google-photos-1)
 
-#### [Proton VPN](?tab=readme-ov-file#proton-vpn-1)
+#### [Adguard](?tab=readme-ov-file#adguard-1)
 
-#### [Spotjfy](?tab=readme-ov-file#spotjfy-1)
+#### [Smart Launcher](?tab=readme-ov-file#smart-launcher-1)
+
+#### [WPS Office](?tab=readme-ov-file#wps-office-1)
+
+#### [Proton VPN](?tab=readme-ov-file#proton-vpn-1)
 
 #### [Google News](?tab=readme-ov-file#google-news-1)
 
 #### [Photomath](?tab=readme-ov-file#photomath-1)
+
+#### [Truecaller](?tab=readme-ov-file#truecaller-1)
+
+#### [EyeconCaller](?tab=readme-ov-file#tyeconcaller-1)
 
 #### [RAR](?tab=readme-ov-file#rar-1)
 
@@ -108,16 +114,13 @@ Download
 
 #### [MyFitnessPal](?tab=readme-ov-file#MyFitnessPal-1)
 
+#### [Google Recorder](?tab=readme-ov-file#Google-Recorder-1)
+
 </details>
 
-## [MicroG RE: (Recommend)](https://github.com/MorpheApp/MicroG-RE)
+## [MicroG RE:](https://github.com/MorpheApp/MicroG-RE)
 
 [![Release](https://img.shields.io/github/v/release/MorpheApp/MicroG-RE?label=All%20Architectures&style=for-the-badge)](https://github.com/MorpheApp/MicroG-RE/releases) 
-
-
-## [MicroG ReVanced:](https://github.com/ReVanced/GmsCore)
-
-[![Release](https://img.shields.io/github/v/release/ReVanced/GmsCore?label=All%20Architectures&style=for-the-badge)](https://github.com/ReVanced/GmsCore/releases) 
 
 ---
 
@@ -140,8 +143,8 @@ Download
 
 | [Stable version](https://github.com/MorpheApp/morphe-patches/releases/latest)  | [Beta version](https://github.com/MorpheApp/morphe-patches/release)                 |
 | -----------------------------------------------------------------------------  | ----------------------------------------------------------------------------------- |
-| [Arm64-v8a](../../releases/download/all/youtube-lite-arm64-v8a-morphe.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-lite-arm64-v8a-morphe.apk)     |
-| [Armeabi-v7a](../../releases/download/all/youtube-lite-armeabi-v7a-morphe.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-lite-armeabi-v7a-morphe.apk) |
+| - [](../../releases/download/all/youtube-lite-arm64-v8a-morphe.apk)     | [Arm64-v8a](../../releases/download/all/youtube-beta-lite-arm64-v8a-morphe.apk)     |
+| - [](../../releases/download/all/youtube-lite-armeabi-v7a-morphe.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-lite-armeabi-v7a-morphe.apk) |
 
 </details>
 
@@ -154,6 +157,9 @@ Download
 | [Armeabi-v7a](../../releases/download/all/youtube-stable-armeabi-v7a-anddea.apk) | [Armeabi-v7a](../../releases/download/all/youtube-beta-armeabi-v7a-anddea.apk) |
 | [x86](../../releases/download/all/youtube-stable-x86-anddea.apk)                 | [x86](../../releases/download/all/youtube-beta-x86-anddea.apk)                 |
 | [x86_64](../../releases/download/all/youtube-stable-x86_64-anddea.apk)           | [x86_64](../../releases/download/all/youtube-beta-x86_64-anddea.apk)   
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -215,6 +221,8 @@ Download
 
 [x86_64](../../releases/download/all/youtube-x86_64-revanced-extended-android-5.apk)
 
+</details>
+
 ---
 
 ### [YouTube Music](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music)
@@ -237,6 +245,9 @@ Download
 | [x86](../../releases/download/all/youtube-music-stable-x86-anddea.apk)                 | [x86](../../releases/download/all/youtube-music-beta-x86-anddea.apk)                 |
 | [x86_64](../../releases/download/all/youtube-music-stable-x86_64-anddea.apk)           | [x86_64](../../releases/download/all/youtube-music-beta-x86_64-anddea.apk)           |
 
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
 | [Stable version](https://github.com/ReVanced/revanced-patches/releases/latest)    | [Beta version](https://github.com/ReVanced/revanced-patches/releases)                  |
@@ -255,17 +266,42 @@ Download
 | [x86](../../releases/download/all/youtube-music-x86-revanced-extended.apk)                 | [x86](../../releases/download/all/youtube-music-beta-x86-revanced-extended.apk)                 |
 | [x86_64](../../releases/download/all/youtube-music-x86_64-revanced-extended.apk)           | [x86_64](../../releases/download/all/youtube-music-beta-x86_64-revanced-extended.apk)           |
 
+</details>
+
 ---
 
 ### [Facebook:](https://play.google.com/store/apps/details?id=com.facebook.katana&hl)
 
 **You have to remove the Messenger app before you install the Facebook ReVanced**
 
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-derevanced.apk)
+
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
 | Stable version                                                                        | Beta version                                                                                |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | 
 |[Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-revanced.apk) | [Arm64-v8a & Android 11+](../../releases/download/all/facebook-arm64-v8a-beta-revanced.apk) |
+
+---
+
+### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
+
+### [Revanced:](https://github.com/revanced/revanced-patches)
+
+| Stable version                                                            | Beta version                                                                   |
+| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | 
+| [Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-beta-revanced.apk) |
+
+</details>
 
 ---
 
@@ -284,6 +320,16 @@ Download
 
 ### [Instagram:](https://play.google.com/store/apps/details?id=com.instagram.android)
 
+### [Piko:](https://github.com/crimera/piko)
+
+| [Stable version](https://github.com/crimera/piko/releases/latest)     | [Beta version](https://github.com/crimera/piko/releases/)                  |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------| 
+| [Arm64-v8a](../../releases/download/all/instagram-arm64-v8a-piko.apk) | [Arm64-v8a](../../releases/download/all/instagram-beta-arm64-v8a-piko.apk) |
+
+
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
 | Stable version                                                            | Beta version                                                                   |
@@ -294,9 +340,15 @@ Download
 
 [Arm64-v8a](../../releases/download/all/instagram-arm64-v8a-revanced-experiments.apk)
 
+</details>
+
 ---
 
 ### [Threads:](https://play.google.com/store/apps/details?id=com.instagram.barcelona)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a](../../releases/download/all/threads-arm64-v8a-derevanced.apk)
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -307,6 +359,10 @@ Download
 ---
 
 ### [Google Photos:](https://play.google.com/store/apps/details?id=com.google.android.apps.photos)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a](../../releases/download/all/gg-photos-arm64-v8a-derevanced.apk) 
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -319,17 +375,14 @@ Download
 
 ---
 
-### [Messenger:](https://play.google.com/store/apps/details?id=com.facebook.orca)
-
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-| Stable version                                                            | Beta version                                                                   |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | 
-| [Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/messenger-arm64-v8a-beta-revanced.apk) |
-
----
-
 ### [TikTok:](https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/tiktok-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -337,9 +390,20 @@ Download
 | ---------------------------------------------------------------------- | -------------------------------------------------------------------------   |
 | [All Architectures](../../releases/download/all/tiktok-revanced.apk)   | [All Architectures](../../releases/download/all/tiktok-beta-revanced.apk)   |
 
+</details>
+
 ---
 
 ### [Twitch:](https://play.google.com/store/apps/details?id=tv.twitch.android.app)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/twitch-derevanced.apk) 
+
+[Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -347,6 +411,8 @@ Download
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | 
 | [All Architectures](../../releases/download/all/twitch-revanced.apk)     | [All Architectures](../../releases/download/all/twitch-beta-revanced.apk)      |
 | [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-revanced.apk)   | [Arm64-v8a](../../releases/download/all/twitch-arm64-v8a-beta-revanced.apk )   |
+
+</details>
 
 ---
 
@@ -357,6 +423,9 @@ Download
 | Stable version                                                       | Beta version                                                              |
 | -------------------------------------------------------------------- | ------------------------------------------------------------------------- | 
 | [All Architectures](../../releases/download/all/reddit-morphe.apk)   | [All Architectures](../../releases/download/all/reddit-beta-morphe.apk)   |
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/ReVanced/revanced-patches)
 
@@ -378,9 +447,14 @@ Download
 
 [Arm64-v8a](../../releases/download/all/reddit-arm64-v8a-revanced-extended-arsclib.apk)
 
+</details>
+
 ---
 
 ### [Lightroom:](https://play.google.com/store/apps/details?id=com.adobe.lrmobile)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -388,9 +462,36 @@ Download
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- | 
 | [Arm64-v8a](../../releases/download/all/lightroom-revanced.apk)         | [Arm64-v8a](../../releases/download/all/lightroom-beta-revanced.apk)         |
 
+</details>
+
+---
+
+### [Truecaller:](https://play.google.com/store/apps/details?id=com.truecaller)
+
+### [Paresh Patches:](https://github.com/Paresh-Maheshwari/paresh-patches)
+
+[Arm64-v8a](../../releases/download/all/truecaller-arm64-v8a-paresh.apk)
+
+---
+
+### [EyeconCaller:]()
+
+### [Paresh Patches:](https://play.google.com/store/apps/details?id=com.eyecon.global)
+
+[Arm64-v8a](../../releases/download/all/eyecon-caller-arm64-v8a-paresh.apk)
+
 ---
 
 ### [Tumblr:](https://play.google.com/store/apps/details?id=com.tumblr)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/tumblr-derevanced.apk)
+
+[Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -399,9 +500,24 @@ Download
 | [All Architectures](../../releases/download/all/tumblr-revanced.apk)   | [All Architectures](../../releases/download/all/tumblr-beta-revanced.apk)   |
 | [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/tumblr-arm64-v8a-beta-revanced.apk) |
 
+</details>
+
 ---
 
 ### [SoundCloud:](https://play.google.com/store/apps/details?id=com.soundcloud.android)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[All Architectures](../../releases/download/all/soundcloud-hoo-dles.apk )
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/soundcloud-derevanced.apk)
+
+[Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -410,9 +526,18 @@ Download
 | [All Architectures](../../releases/download/all/soundcloud-revanced.apk)   | [All Architectures](../../releases/download/all/soundcloud-beta-revanced.apk)   |
 | [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/soundcloud-arm64-v8a-beta-revanced.apk) |
 
+</details>
+
 ---
 
 ### [Duolingo:](https://play.google.com/store/apps/details?id=com.duolingo)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[Arm64-v8a](../../releases/download/all/duolingo-hoo-dles.apk )
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -420,9 +545,18 @@ Download
 | ------------------------------------------------------------------------ | ---------------------------------------------------------------------------   |
 | [All Architectures](../../releases/download/all/duolingo-revanced.apk)   | [All Architectures](../../releases/download/all/duolingo-beta-revanced.apk)   |
 
+</details>
+
 ---
 
 ### [Google News:](play.google.com/store/apps/details?id=com.google.android.apps.magazines)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a](../../releases/download/all/googlenews-arm64-v8a-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -430,9 +564,18 @@ Download
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/googlenews-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/googlenews-beta-arm64-v8a-revanced.apk) |
 
+</details>
+
 ---
 
 ### [Photomath:](https://play.google.com/store/apps/details?id=com.microblink.photomath)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/photomath-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -440,9 +583,18 @@ Download
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [All Architectures](../../releases/download/all/photomath-revanced.apk)    | [All Architectures](../../releases/download/all/photomath-beta-revanced.apk)    |
 
+</details>
+
 ---
 
 ### [Proton VPN:](https://f-droid.org/en/packages/ch.protonvpn.android/)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[All Architectures](../../releases/download/all/protonvpn-hoo-dles.apk )
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -450,9 +602,18 @@ Download
 | ----------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | [All Architectures](../../releases/download/all/protonvpn-revanced.apk) | [All Architectures](../../releases/download/all/protonvpn-beta-revanced.apk) |
 
+</details>
+
 ---
 
 ### [Proton mail:](https://play.google.com/store/apps/details?id=ch.protonmail.android)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/protonmail-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -460,9 +621,18 @@ Download
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | [All Architectures](../../releases/download/all/protonmail-revanced.apk)    | [All Architectures](../../releases/download/all/protonmail-beta-revanced.apk)   |
 
+</details>
+
 ---
 
 ### [RAR:](https://play.google.com/store/apps/details?id=com.rarlab.rar)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/rar-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -470,9 +640,14 @@ Download
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [All Architectures](../../releases/download/all/rar-revanced.apk) | [All Architectures](../../releases/download/all/rar-beta-revanced.apk) |
 
+</details>
+
 ---
 
 ### [Strava:](https://play.google.com/store/apps/details?id=com.strava)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -480,15 +655,26 @@ Download
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Arm64-v8a](../../releases/download/all/strava-arm64-v8a-revanced.apk) | [Arm64-v8a](../../releases/download/all/strava-beta-arm64-v8a-revanced.apk) |
 
+</details>
+
 ---
 
 ### [Pixiv:](https://play.google.com/store/apps/details?id=jp.pxv.android)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/pixiv-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
 | Stable version                                                      | Beta version                                                             |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------ | 
 | [All Architectures](../../releases/download/all/pixiv-revanced.apk) | [All Architectures](../../releases/download/all/pixiv-beta-revanced.apk) |
+
+</details>
 
 ---
 
@@ -504,25 +690,20 @@ Download
 
 ### [Prime Video:](https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
 
-| Stable version                                                                | Beta version                                                                       |
-| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | 
-| [Arm64-v8a](../../releases/download/all/prime-video-arm64-v8a-revanced.apk)   | [Arm64-v8a](../../releases/download/all/prime-video-beta-arm64-v8a-revanced.apk)   |
-
----
-
-### [Disney+:](https://play.google.com/store/apps/details?id=com.disney.disneyplus)
-
-### [Revanced:](https://github.com/revanced/revanced-patches)
-
-| Stable version                                               | Beta version                                                      |
-| ------------------------------------------------------------ | ----------------------------------------------------------------- | 
-| [Arm64-v8a](../../releases/download/all/disney-revanced.apk) | [Arm64-v8a](../../releases/download/all/disney-beta-revanced.apk) |
+[Arm64-v8a](../../releases/download/all/prime-video-arm64-v8a-hoo-dles.apk)
 
 ---
 
 ### [Viber:](https://play.google.com/store/apps/details?id=com.viber.voip)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[All Architectures](../../releases/download/all/viber-derevanced.apk)
+
+<details>
+  <summary>Outdated patches</summary>
 
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
@@ -530,33 +711,96 @@ Download
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | 
 | [All Architectures](../../releases/download/all/viber-revanced.apk)   | [All Architectures](../../releases/download/all/viber-beta-revanced.apk)   |
 
+</details>
+
 ---
 
-### [Crunchyroll:](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+### [Telegram:](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 
-### [Revanced:](https://github.com/revanced/revanced-patches)
+### [Paresh Patches:](https://play.google.com/store/apps/details?id=com.eyecon.global)
 
-| Stable version                                                            | Beta version                                                                  |
-| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | 
-| [All Architectures](../../releases/download/all/crunchyroll-revanced.apk) | [All Architectures](../../releases/download/all/crunchyroll-beta-revanced.apk)|
+Web version:
+
+[Arm64-v8a](../../releases/download/all/telegram-web-version-paresh.apk)
+
+<details>
+  <summary>Outdated patches</summary>
+
+### [Revanced Experiments:](https://github.com/Aunali321/ReVancedExperiments)
+
+CH play version:
+
+[Arm64-v8a](../../releases/download/all/telegram-revanced-experiments.apk)
+
+Web version:
+
+[All Architectures](../../releases/download/all/telegram-web-version-revanced-experiments.apk) 
+
+</details>
 
 ---
 
 ### [MyFitnessPal:](https://play.google.com/store/apps/details?id=com.myfitnesspal.android)
 
+<details>
+  <summary>Outdated patches</summary>
+
 ### [Revanced:](https://github.com/revanced/revanced-patches)
 
-| Stable version                                                             | Beta version                                                                   |
-| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | 
-| [All Architectures](../../releases/download/all/MyFitnessPal-revanced.apk) | [All Architectures](../../releases/download/all/MyFitnessPal-beta-revanced.apk)|
+| Stable version                                                             | Beta version                                                                    |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------  | 
+| [All Architectures](../../releases/download/all/MyFitnessPal-revanced.apk) | [All Architectures](../../releases/download/all/MyFitnessPal-beta-revanced.apk) |
+
+</details>
+
+---
+
+### [Google Recorder:](https://play.google.com/store/apps/details?id=com.google.android.apps.recorder)
+
+### [DeRevanced:](https://github.com/RookieEnough/De-ReVanced)
+
+[Arm64-v8a](../../releases/download/all/google-recorder-derevanced.apk )
+
+---
+
+### [Adguard:](https://adguard.com/)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[All Architectures](../../releases/download/all/adguard-hoo-dles.apk )
+
+---
+
+### [Smart Launcher:](https://play.google.com/store/apps/details?id=ginlemon.flowerfree)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[All Architectures](../../releases/download/all/smart-launcher-hoo-dles.apk )
+
+---
+
+### [WPS Office:](https://play.google.com/store/apps/details?id=cn.wps.moffice_eng)
+
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[All Architectures](../../releases/download/all/wps-office-hoo-dles.apk )
 
 ---
 
 ### [Solid Explorer File Manager:](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 
+### [hoo-dles:](https://github.com/hoo-dles/morphe-patches)
+
+[Arm64-v8a](../../releases/download/all/solid-explorer-hoo-dles.apk )
+
+<details>
+  <summary>Outdated patches</summary>
+
 ### [scrazzz](https://github.com/scrazzz/my-revanced-patches)
 
 [Arm64-v8a](../../releases/download/all/solid-explorer-arm64-v8a-scrazzz.apk )
+
+</details>
 
 ---
 
@@ -688,18 +932,16 @@ Download
 </details>
 
 <details>
-  <summary>chsbuffer</summary>
+  <summary>RookieEnough</summary>
 
-[Patches](https://github.com/chsbuffer/ReVancedXposed) - [GPL-3.0](https://github.com/chsbuffer/ReVancedXposed/blob/main/LICENSE)
-
-</details>
+[Patches](https://github.com/RookieEnough/De-ReVanced) - [GPL-3.0](https://github.com/RookieEnough/De-ReVanced/blob/main/LICENSE)
 
 </details>
 
 <details>
-  <summary>JingMatrix</summary>
+  <summary>Paresh Maheshwari</summary>
 
-[LSPatch](https://github.com/JingMatrix/LSPatch) - [GPL-3.0](https://github.com/JingMatrix/LSPatch/blob/main/LICENSE)
+[Patches](https://github.com/Paresh-Maheshwari/paresh-patches) - [GPL-3.0](https://github.com/Paresh-Maheshwari/paresh-patches/blob/main/LICENSE)
 
 </details>
 
